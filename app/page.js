@@ -184,10 +184,11 @@ export default function Home() {
               <div className="skill-group">
                 <h3>{t.skills.certs}</h3>
                 <ul className="skill-list">
-                  <li>Responsive Web Design</li>
-                  <li>JavaScript Algorithms and Data Structures</li>
-                  <li>Foundational C# with Microsoft Certification</li>
-                  <li>Belajar Membuat Aplikasi Web dengan React</li>
+                  <li><a href="https://www.dicoding.com/certificates/72ZDME69JZYW" target="_blank" rel="noopener noreferrer">Belajar Fundamental Aplikasi Android</a></li>
+                  <li><a href="https://www.dicoding.com/certificates/72ZDME69JZYW" target="_blank" rel="noopener noreferrer">Belajar Fundamental Aplikasi Web dengan React</a></li>
+                  <li><a href="https://www.freecodecamp.org/certification/fcc60e124c3-a8d8-4056-82a0-b73dac69b53e/responsive-web-design" target="_blank" rel="noopener noreferrer">Responsive Web Design</a></li>
+                  <li><a href="https://www.freecodecamp.org/certification/fcc60e124c3-a8d8-4056-82a0-b73dac69b53e/javascript-algorithms-and-data-structures-v8" target="_blank" rel="noopener noreferrer">JavaScript Algorithms and Data Structures</a></li>
+                  <li><a href="https://www.freecodecamp.org/certification/fcc60e124c3-a8d8-4056-82a0-b73dac69b53e/foundational-c-sharp-with-microsoft" target="_blank" rel="noopener noreferrer">Foundational C# with Microsoft Certification</a></li>
                 </ul>
               </div>
             </div>
